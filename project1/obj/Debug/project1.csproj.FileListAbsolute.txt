@@ -1,0 +1,16 @@
+C:\Users\Ngo Tung Son\source\repos\project1\bin\Debug\project1.exe.config
+C:\Users\Ngo Tung Son\source\repos\project1\bin\Debug\project1.exe
+C:\Users\Ngo Tung Son\source\repos\project1\bin\Debug\project1.pdb
+C:\Users\Ngo Tung Son\source\repos\project1\obj\Debug\project1.csprojAssemblyReference.cache
+C:\Users\Ngo Tung Son\source\repos\project1\obj\Debug\project1.Form1.resources
+C:\Users\Ngo Tung Son\source\repos\project1\obj\Debug\project1.Properties.Resources.resources
+C:\Users\Ngo Tung Son\source\repos\project1\obj\Debug\project1.csproj.GenerateResource.cache
+C:\Users\Ngo Tung Son\source\repos\project1\obj\Debug\project1.exe
+C:\Users\Ngo Tung Son\source\repos\project1\obj\Debug\project1.pdb
+C:\Users\Ngo Tung Son\source\repos\project1\bin\Debug\RestSharp.dll
+C:\Users\Ngo Tung Son\source\repos\project1\bin\Debug\RestSharp.xml
+C:\Users\Ngo Tung Son\source\repos\project1\obj\Debug\project1.csproj.CopyComplete
+C:\Users\Ngo Tung Son\source\repos\project1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ngo Tung Son\source\repos\project1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ngo Tung Son\source\repos\project1\obj\Debug\project1.ProductTable.resources
+C:\Users\Ngo Tung Son\source\repos\project1\obj\Debug\project1.FormForStorage.resources
